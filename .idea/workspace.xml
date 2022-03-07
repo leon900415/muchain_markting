@@ -180,7 +180,7 @@
       <workItem from="1646288987329" duration="3577000" />
       <workItem from="1646374735389" duration="1246000" />
       <workItem from="1646380788159" duration="26011000" />
-      <workItem from="1646633001622" duration="12874000" />
+      <workItem from="1646633001622" duration="13178000" />
     </task>
     <task id="LOCAL-00001" summary="moonchain的flink+drools + 用户画像的学习项目">
       <created>1645413368410</created>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645414153377</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="项目的骨架重构">
+      <created>1646653847724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646653847724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +232,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="moonchain的flink+drools + 用户画像的学习项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="moonchain的flink+drools + 用户画像的学习项目" />
+    <MESSAGE value="项目的骨架重构" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目的骨架重构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
