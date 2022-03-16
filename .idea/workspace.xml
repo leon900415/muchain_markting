@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10f8c2c3-f519-4e54-bf21-47fc18e54d35" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CamelCaseConfigNew.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/beans/BufferData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/beans/TimerCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/buffer/BufferManagerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/controller/TriggerModelMatchController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/beans/MarketingRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/beans/MarketingRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/buffer/BufferManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/buffer/BufferManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/functions/RuleMatchKeyedProcessFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/functions/RuleMatchKeyedProcessFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/querier/ClickhouseQuerier.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/dao/ClickHouseQuerier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/querier/HbaseQuerier.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/dao/HbaseQuerier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/querier/StateQuerier.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/dao/StateQuerier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/service/TriggerModeMatchServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/service/TriggerModeMatchServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/ConfigNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/ConfigNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/EventUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/EventUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/RuleSimulation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/RuleSimulation2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/StateDescContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/StateDescContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +80,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/functions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="rearrange.code.on.save" value="true" />
     <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
   </component>
@@ -225,7 +207,7 @@
       <workItem from="1646380788159" duration="26011000" />
       <workItem from="1646633001622" duration="61253000" />
       <workItem from="1647177451741" duration="15087000" />
-      <workItem from="1647323561964" duration="23485000" />
+      <workItem from="1647323561964" duration="27205000" />
     </task>
     <task id="LOCAL-00001" summary="moonchain的flink+drools + 用户画像的学习项目">
       <created>1645413368410</created>
@@ -262,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646654101931</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="加入缓存">
+      <created>1647415045898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647415045898</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +274,8 @@
     </ignored-roots>
     <MESSAGE value="moonchain的flink+drools + 用户画像的学习项目" />
     <MESSAGE value="项目的骨架重构" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目的骨架重构" />
+    <MESSAGE value="加入缓存" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入缓存" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
