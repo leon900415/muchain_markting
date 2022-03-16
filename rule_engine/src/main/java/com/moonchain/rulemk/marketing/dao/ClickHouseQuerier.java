@@ -6,6 +6,7 @@ import com.moonchain.rulemk.marketing.beans.EventCondition;
 import com.moonchain.rulemk.marketing.buffer.BufferManagerImpl;
 import com.moonchain.rulemk.marketing.utils.ConfigNames;
 import com.moonchain.rulemk.marketing.utils.EventUtil;
+
 import com.typesafe.config.ConfigFactory;
 import org.apache.flink.api.java.tuple.Tuple2;
 import ru.yandex.clickhouse.ClickHouseConnection;

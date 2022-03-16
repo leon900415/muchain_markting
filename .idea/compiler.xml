@@ -3,6 +3,22 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rule_engine" />
+        <module name="rule_management" />
+        <module name="user_profile" />
+        <module name="rule_analyse" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="muchain_markting" target="1.8" />
+      <module name="rule_analyse" target="1.8" />
+      <module name="rule_engine" target="1.8" />
+      <module name="rule_management" target="1.8" />
+      <module name="user_profile" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
