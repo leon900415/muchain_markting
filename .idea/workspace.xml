@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10f8c2c3-f519-4e54-bf21-47fc18e54d35" name="变更" comment="" />
+    <list default="true" id="10f8c2c3-f519-4e54-bf21-47fc18e54d35" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CamelCaseConfigNew.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/beans/BufferData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/beans/TimerCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/buffer/BufferManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/controller/TriggerModelMatchController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/beans/MarketingRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/beans/MarketingRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/buffer/BufferManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/buffer/BufferManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/functions/RuleMatchKeyedProcessFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/functions/RuleMatchKeyedProcessFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/querier/ClickhouseQuerier.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/dao/ClickHouseQuerier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/querier/HbaseQuerier.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/dao/HbaseQuerier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/querier/StateQuerier.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/dao/StateQuerier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/service/TriggerModeMatchServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/service/TriggerModeMatchServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/ConfigNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/ConfigNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/EventUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/EventUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/RuleSimulation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/RuleSimulation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/StateDescContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/utils/StateDescContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule_engine/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/rule_engine/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,11 +45,22 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="4" />
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
@@ -49,6 +81,9 @@
     <option name="jreName" value="azul-1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="ProjectId" id="25OvzJK1CCulTJa0tVf4V2YOEaM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -60,13 +95,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="code.cleanup.on.save" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/functions" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="rearrange.code.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="google-java-format.settings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.moonchain.rulemk.marketing.buffer" />
+      <recent name="com.moonchain.rulemk.marketing.beans" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/rule_engine/src/main/java/com/moonchain/rulemk/marketing/functions" />
       <recent name="$PROJECT_DIR$/rule_engine/src/main/resources" />
@@ -180,7 +223,9 @@
       <workItem from="1646288987329" duration="3577000" />
       <workItem from="1646374735389" duration="1246000" />
       <workItem from="1646380788159" duration="26011000" />
-      <workItem from="1646633001622" duration="13178000" />
+      <workItem from="1646633001622" duration="61253000" />
+      <workItem from="1647177451741" duration="15087000" />
+      <workItem from="1647323561964" duration="23485000" />
     </task>
     <task id="LOCAL-00001" summary="moonchain的flink+drools + 用户画像的学习项目">
       <created>1645413368410</created>
@@ -210,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646653847724</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="项目的骨架重构">
+      <created>1646654101931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646654101931</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

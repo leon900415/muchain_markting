@@ -28,7 +28,7 @@ public class MarketingRule {
     /**
      * 触发事件
      */
-    private EventCondition triggerEvent;
+    private EventCondition triggerEventCondition;
 
     /**
      * 规则推送的次数限制
@@ -43,5 +43,8 @@ public class MarketingRule {
 
     // 是否要往册timer
     private boolean isOnTimer;
+
+    // 定时条件时间
+    private List<TimerCondition> timerConditionList;
 
 }
